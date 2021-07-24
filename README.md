@@ -10,4 +10,5 @@
 3. Update channel configuration 
 4. Join channel
 
+....
 updateConfig script not working 
