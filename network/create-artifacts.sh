@@ -2,8 +2,8 @@
 export FABRIC_CFG_PATH=${PWD}
 
 mkdir -p crypto-config
-mkdir -p channels/*
-mkdir -p orderer/*
+mkdir -p channels
+mkdir -p orderer
 # Remove previous crypto material
 rm -fr crypto-config/*
 # removing previous config transactions and files

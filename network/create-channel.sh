@@ -26,8 +26,8 @@ docker exec cli-peer0.org1 peer channel join -b /etc/hyperledger/channels/$CHANN
 
 docker exec cli-peer1.org1 peer channel join -b /etc/hyperledger/channels/$CHANNEL_NAME.block
 
-echo "channels joined by peer0.org1"
+echo "channels joined by peer0 of org1 "
 docker exec cli-peer0.org1 peer channel list
-echo "channels joined by peer1.org1"
+echo "channels joined by peer1 of org1 "
 docker exec cli-peer1.org1 peer channel list
 
