@@ -1,4 +1,7 @@
 
+Branch one-org has intial 1 Org and 1 Ordere netwrok. In this branch we script and wrote configuration to add Org2 to the network.
+
+will update the readme file soon.
 
 ## Steps To Add Org2
 
@@ -10,5 +13,5 @@
 3. Update channel configuration 
 4. Join channel
 
-....
+
 updateConfig script not working 
