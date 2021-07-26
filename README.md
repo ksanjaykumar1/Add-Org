@@ -2,6 +2,7 @@
 
 This is a Hyperledger Fabric Network with 1 Org
 
+Will update readme soon. 
 ### Steps
 (execute these comands in network folder)
 1. FABRIC_CFG_PATH should point to where configtx.yaml file exist
